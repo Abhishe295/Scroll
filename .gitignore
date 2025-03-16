@@ -1,0 +1,21 @@
+# Virtual environment  
+venv/  
+
+# Dataset and processed data  
+dataset/  
+processed_dataset/  
+
+# Python cache files  
+__pycache__/  
+*.pyc  
+*.pyo  
+*.pyd  
+
+# Jupyter Notebook checkpoints  
+.ipynb_checkpoints/  
+
+# Logs and temporary files  
+logs/  
+*.log  
+*.tmp  
+
